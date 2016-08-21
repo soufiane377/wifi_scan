@@ -3,5 +3,7 @@ this app scans your wifi in the background every x minutes and only alert you wh
 
 # Build
 Pre-requisites
--install nmap: 
+
+install nmap: 
+
 $ sudo apt-get install nmap
