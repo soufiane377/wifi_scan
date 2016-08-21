@@ -1,5 +1,5 @@
 # wifi_scan
-this app scans your wifi in the background every x minutes and only alert you when someone connect/disconnect from the network 
+this app scans your wifi in background every x minutes and only alert you when someone connect/disconnect from the network 
 
 # Build
 Pre-requisites
