@@ -7,3 +7,9 @@ Pre-requisites
 install nmap: 
 
 $ sudo apt-get install nmap
+
+#run
+
+run this command line in directory where you've extracted the file:
+
+$ ./wifi_scan.py
